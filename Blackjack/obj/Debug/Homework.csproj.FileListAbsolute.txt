@@ -1,0 +1,7 @@
+C:\Users\titar\RiderProjects\CardGameUIApp\Homework\bin\Debug\Homework.exe
+C:\Users\titar\RiderProjects\CardGameUIApp\Homework\bin\Debug\Homework.pdb
+C:\Users\titar\RiderProjects\CardGameUIApp\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\titar\RiderProjects\CardGameUIApp\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\titar\RiderProjects\CardGameUIApp\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\titar\RiderProjects\CardGameUIApp\Homework\obj\Debug\Homework.exe
+C:\Users\titar\RiderProjects\CardGameUIApp\Homework\obj\Debug\Homework.pdb

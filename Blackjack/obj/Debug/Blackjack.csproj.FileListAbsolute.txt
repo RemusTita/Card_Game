@@ -1,0 +1,7 @@
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\Homework\bin\Debug\Homework.exe.config
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\Homework\bin\Debug\Homework.exe
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\Homework\bin\Debug\Homework.pdb
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\Homework\obj\Debug\Blackjack.csproj.AssemblyReference.cache
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\Homework\obj\Debug\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\Homework\obj\Debug\Homework.exe
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\Homework\obj\Debug\Homework.pdb

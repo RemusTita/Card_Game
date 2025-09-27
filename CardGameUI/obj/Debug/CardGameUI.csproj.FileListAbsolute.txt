@@ -1,0 +1,14 @@
+C:\Users\titar\RiderProjects\CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.exe
+C:\Users\titar\RiderProjects\CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.pdb
+C:\Users\titar\RiderProjects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.csproj.AssemblyReference.cache
+C:\Users\titar\RiderProjects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\titar\RiderProjects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.csproj.CoreCompileInputs.cache
+C:\Users\titar\RiderProjects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.exe
+C:\Users\titar\RiderProjects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.pdb
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.exe.config
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.exe
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.pdb
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.csproj.AssemblyReference.cache
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.csproj.CoreCompileInputs.cache
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.exe
+C:\Users\titar\OneDrive\Desktop\Projects\CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.pdb
